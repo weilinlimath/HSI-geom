@@ -7,4 +7,4 @@ Includes the following features:
 1. Calculates the angles and distances between clusters
 2. Calculates the compression rate by linear approximation
 
-To obtain the features (since they are too big to be uploaded), email me. 
+To obtain the features (since they are too big to be uploaded to Github), email me. 
